@@ -1,9 +1,9 @@
-# EntregableDiplomado
-En este repositorio se cargaran evidencias sobre entregables de machine learning
+### EntregableDiplomado
+#### En este repositorio se cargaran evidencias sobre entregables de machine learning
 
-# Buen dia estudiantes,
+### Buen dia estudiantes,
 
-### Haciendo uso del dataset sobre las notas de estudiantes de dos instituciones de portugal. Realizar el mismo modelo de regresión lineal con las variables categóricas. Se debe aplicar los siguientes pasos:
+#### Haciendo uso del dataset sobre las notas de estudiantes de dos instituciones de portugal. Realizar el mismo modelo de regresión lineal con las variables categóricas. Se debe aplicar los siguientes pasos:
 
 #### 1. Conversión de datos de tipo texto a numerico (variables dummies)
 
