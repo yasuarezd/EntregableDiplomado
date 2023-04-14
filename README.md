@@ -1,4 +1,8 @@
 ### Entregable Diplomado
+#### Integrantes:
+##### Jhon Eiber Escobar
+##### Yeison Andres Suarez Diaz
+
 #### En este repositorio se cargaran evidencias sobre entregables de machine learning
 
 #### Haciendo uso del dataset sobre las notas de estudiantes de dos instituciones de portugal. Realizar el mismo modelo de regresión lineal con las variables categóricas. Se debe aplicar los siguientes pasos:
